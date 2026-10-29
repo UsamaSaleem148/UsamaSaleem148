@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://usamadev.com">usamadev.com</a> ·
-  <a href="https://linkedin.com/in/engrmusamasaleem">LinkedIn</a> ·
-  <a href="https://usamasaleem674.medium.com/">Medium</a> ·
-  <a href="https://dev.to/usama_saleem_148/">dev.to</a> ·
-  <a href="mailto:muhammad@usamadev.com">muhammad@usamadev.com</a>
+  <a href="https://usamadev.com"><img src="https://img.shields.io/badge/Portfolio-usamadev.com-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/engrmusamasaleem"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://usamasaleem674.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://dev.to/usama_saleem_148/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
+  <a href="mailto:muhammad@usamadev.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
